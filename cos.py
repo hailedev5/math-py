@@ -1,3 +1,3 @@
 import math 
-x = cos(3)
+x = math.cos(3)
 print(x)
